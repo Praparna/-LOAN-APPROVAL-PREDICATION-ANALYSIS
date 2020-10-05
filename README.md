@@ -2,7 +2,7 @@
 
 Classification Problem as Loan Status of an employee is found using categorical variable (Y,N)
 
-STEPS PERFORMED
+STEPS PERFORMED:
 
 •	Import Dataset
 
@@ -20,3 +20,15 @@ STEPS PERFORMED
 
 
 •Compare predicted and achieved results
+
+
+MODELS USED:
+
+
+Logistic Regression
+
+Naive Bayes
+
+Decision Tree Classification
+
+Random Forest
